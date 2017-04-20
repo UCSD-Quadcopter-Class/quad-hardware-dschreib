@@ -1,0 +1,23 @@
+[0416/134807:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
+[0416/134807:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0416/143904:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0416/143904:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
+[0416/143904:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0416/143909:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0416/143914:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0416/143919:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0416/143924:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0416/144253:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0416/144253:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {CA4D7129-C2C9-4819-B922-E2565D72EAED}\BrowserCache\GPUCache to C:\ProgramData\Altium\Altium Designer {CA4D7129-C2C9-4819-B922-E2565D72EAED}\BrowserCache\old_GPUCache_000
+[0416/144253:ERROR:cache_creator.cc(129)] Unable to create cache
+[0416/144253:ERROR:shader_disk_cache.cc(589)] Shader Cache Creation failed: -2
+[0416/144253:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0416/144253:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {CA4D7129-C2C9-4819-B922-E2565D72EAED}\BrowserCache to C:\ProgramData\Altium\Altium Designer {CA4D7129-C2C9-4819-B922-E2565D72EAED}\old_BrowserCache_000
+[0416/144253:ERROR:cache_creator.cc(129)] Unable to create cache
+[0416/160538:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
+[0416/160538:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0416/160652:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
+[0416/160652:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0416/160653:INFO:CONSOLE(43)] "Uncaught TypeError: Cannot read property 'isEmptyObject' of undefined", source: http://techdocs.altium.com/sites/all/themes/custom/altiumwiki/js/marketo.js?oocgr6 (43)
+[0416/160654:INFO:CONSOLE(12)] "[object Object]", source: http://techdocs.altium.com/sites/all/themes/custom/altiumwiki/js/modalWindow.js (12)
+[0416/160658:INFO:CONSOLE(1)] "Facebook Pixel Warning: Multiple pixels with conflicting versions were detected on this page", source: http://connect.facebook.net/en_US/fbevents.js (1)
