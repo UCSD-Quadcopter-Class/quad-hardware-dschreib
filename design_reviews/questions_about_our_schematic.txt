@@ -1,0 +1,20 @@
+Group 5 reviewing Group 6
+IMU Schematic
+● Do the pads have an extra 1mm on them to make it easier to solder?
+● What are ports 9,10, 11, 12, and 13 connected to?
+Quadcopter Schematic
+● Your voltage regulator (748421245) has two OUT ports and two GND ports whereas the
+datasheet only shows one of each
+● You don’t have a second FTDI header as mentioned in the lab 4 writeup
+Motor Driver Schematic
+● Where is the 10K resistor and 1uF capacitor that is a part of the filter in the motor driver?
+● Where is the Schottky diode in the motor driver?
+● Why is there a 100nF and a 4.7uF capacitor when the schematic for the motor driver
+shows just a polar 100uF capacitor needed?
+Quadcopter Board
+● The board is not wired yet, when will this be done?
+● Would like to know the dimensions
+● Why are the LEDs not placed?
+Meeting time: 1:50 in the envision lab
+
+
