@@ -21,3 +21,5 @@
 [0416/160653:INFO:CONSOLE(43)] "Uncaught TypeError: Cannot read property 'isEmptyObject' of undefined", source: http://techdocs.altium.com/sites/all/themes/custom/altiumwiki/js/marketo.js?oocgr6 (43)
 [0416/160654:INFO:CONSOLE(12)] "[object Object]", source: http://techdocs.altium.com/sites/all/themes/custom/altiumwiki/js/modalWindow.js (12)
 [0416/160658:INFO:CONSOLE(1)] "Facebook Pixel Warning: Multiple pixels with conflicting versions were detected on this page", source: http://connect.facebook.net/en_US/fbevents.js (1)
+[0425/120127:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
+[0425/120127:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
