@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=microcontroller_Nets Member=RFN
+Removed Member From Class: ClassName=microcontroller_Nets Member=RFP
+Added Pin To Net: NetName=RF_P Pin=U2-8
+Added Pin To Net: NetName=RF_N Pin=U2-9
